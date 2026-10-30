@@ -9,14 +9,6 @@
   Développement Full Stack • React • Microservices • API REST
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Développeur+Back-end+%7C+Java+%26+Spring+Boot;Développeur+Full+Stack+%7C+React;Microservices+%7C+API+REST" alt="Animation de texte" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimoueric&label=Visites+du+profil&color=0e75b6&style=flat" alt="Visites du profil" />
-</div>
-
 ---
 
 ### 💫 À propos de moi
@@ -91,19 +83,6 @@ J'ai également une expérience en développement Full Stack avec React et dans 
 - **Applications Full Stack :** interfaces modernes avec React et back-ends robustes avec Spring Boot.
 - **Flux ETL :** traitement des données et orchestration des workflows avec Apache Airflow.
 - **Tests logiciels :** tests unitaires avec JUnit, Mockito et AssertJ.
-
----
-
-### 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimoueric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimoueric&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kimoueric&theme=tokyonight" alt="Streak stats" />
-</div>
 
 ---
 
