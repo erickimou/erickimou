@@ -4,14 +4,15 @@
   <img src="profile.png" width="180" height="180" alt="Photo de profil d'Eric Kimou" />
 </div>
 
+```
 <div align="center">
   <h3>Développeur Back-end Java & Spring Boot</h3>
   <p>Full Stack • React • Spring Boot • Microservices • API REST</p>
 </div>
-
+```
 ---
 
-```
+
 Je suis  **Eric Kimou , Développeur Back-end spécialisé en Java et Spring Boot**, basé en Côte d’Ivoire.
 
 Passionné par le développement logiciel, j’aime concevoir et développer des applications fiables, évolutives et adaptées aux besoins métiers.
@@ -23,8 +24,7 @@ J’ai également une expérience en développement Full Stack avec React et dan
 - **Domaines d’expérience :** développement Back-end, API REST, React et Apache Airflow.
 - **Centres d’intérêt :** architecture logicielle, conception d’API et intégration de systèmes.
 - **Collaboration :** ouvert aux collaborations et aux projets de développement logiciel.
-```
-
+  
 
 
 ### Stack technique
