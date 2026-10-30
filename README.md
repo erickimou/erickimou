@@ -100,6 +100,3 @@ J’ai également une expérience en développement Full Stack avec React et dan
   <i>« Concevoir des solutions, résoudre des problèmes et progresser continuellement. »</i>
 </div>
 
-<div align="center">
-  ⭐️ Réalisé par <a href="https://github.com/kimoueric">Eric Kimou</a> avec passion.
-</div>
