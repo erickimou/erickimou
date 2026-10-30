@@ -9,10 +9,6 @@
   <p>Full Stack • React • Microservices • API REST</p>
 </div>
 
-<div align="center">
-  <img alt="Animation de texte" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Développeur+Back-end+%7C+Java+%26+Spring+Boot;Développeur+Full+Stack+%7C+React;Microservices+%7C+API+REST" />
-</div>
-
 ---
 
 ### 💫 À propos de moi
