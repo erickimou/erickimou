@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>Développeur Back-end Java & Spring Boot</h3>
-  <p>Full Stack • React • Microservices • API REST</p>
+  <p>Full Stack • React • Spring Boot • Microservices • API REST</p>
 </div>
 
 ---
@@ -19,11 +19,11 @@ Passionné par le développement logiciel, j’aime concevoir et développer des
 
 J’ai également une expérience en développement Full Stack avec React et dans la conception de flux ETL avec Apache Airflow.
 
-- 🔭 **Projets actuels :** développement d’applications Java Spring Boot et architectures microservices.
-- 🌱 **En apprentissage :** systèmes distribués, approfondissement de Spring Boot et Rust.
-- 💻 **Domaines d’expérience :** développement Back-end, API REST, React et Apache Airflow.
-- ⚙️ **Centres d’intérêt :** architecture logicielle, conception d’API et intégration de systèmes.
-- 🤝 **Collaboration :** ouvert aux collaborations et aux projets de développement logiciel.
+- **Projets actuels :** développement d’applications Java Spring Boot et architectures microservices.
+- **En apprentissage :** systèmes distribués, approfondissement de Spring Boot et Rust.
+- **Domaines d’expérience :** développement Back-end, API REST, React et Apache Airflow.
+- **Centres d’intérêt :** architecture logicielle, conception d’API et intégration de systèmes.
+- **Collaboration :** ouvert aux collaborations et aux projets de développement logiciel.
 
 ---
 
