@@ -1,4 +1,4 @@
-# Salut, moi c'est Eric Kimou ! 👋
+# Salut, moi c'est Eric Kimou ! 
 
 <div align="center">
   <img src="profile.png" width="180" height="180" alt="Photo de profil d'Eric Kimou" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 💫 À propos de moi
+### À propos de moi
 
 Je suis un **Développeur Back-end spécialisé en Java et Spring Boot**, basé en Côte d’Ivoire.
 
@@ -27,7 +27,7 @@ J’ai également une expérience en développement Full Stack avec React et dan
 
 ---
 
-### 🛠️ Stack technique
+### Stack technique
 
 #### Back-end
 
@@ -76,7 +76,7 @@ J’ai également une expérience en développement Full Stack avec React et dan
 
 ---
 
-### 🏗️ Ce que je développe
+### Ce que je développe
 
 - **Systèmes Back-end :** API REST, logique métier et intégration de bases de données.
 - **Microservices :** applications distribuées, découverte de services et communication interservices.
@@ -86,7 +86,7 @@ J’ai également une expérience en développement Full Stack avec React et dan
 
 ---
 
-### 🤝 Retrouvez-moi
+### Retrouvez-moi
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kimou-n-cho-guy-eric-b5758621a/">
