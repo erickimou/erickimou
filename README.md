@@ -5,31 +5,31 @@
 </div>
 
 <div align="center">
-  <strong>Développeur Back-end Java & Spring Boot</strong><br>
-  Développement Full Stack • React • Microservices • API REST
+  <h3>Développeur Back-end Java & Spring Boot</h3>
+  <p>Full Stack • React • Microservices • API REST</p>
 </div>
 
 ---
 
 ### 💫 À propos de moi
 
-Je suis un **Développeur Back-end spécialisé en Java et Spring Boot**, basé en Côte d'Ivoire.
+Je suis un **Développeur Back-end spécialisé en Java et Spring Boot**, basé en Côte d’Ivoire.
 
-Passionné par le développement logiciel, j'aime concevoir et développer des applications fiables, évolutives et adaptées aux besoins métiers.
+Passionné par le développement logiciel, j’aime concevoir et développer des applications fiables, évolutives et adaptées aux besoins métiers.
 
-J'ai également une expérience en développement Full Stack avec React et dans la conception de flux ETL avec Apache Airflow.
+J’ai également une expérience en développement Full Stack avec React et dans la conception de flux ETL avec Apache Airflow.
 
-- 🔭 **Projets actuels :** développement d'applications Java Spring Boot et architectures microservices.
+- 🔭 **Projets actuels :** développement d’applications Java Spring Boot et architectures microservices.
 - 🌱 **En apprentissage :** systèmes distribués, approfondissement de Spring Boot et Rust.
-- 💻 **Domaines d'expérience :** développement Back-end, API REST, React et Apache Airflow.
-- ⚙️ **Centres d'intérêt :** architecture logicielle, conception d'API et intégration de systèmes.
+- 💻 **Domaines d’expérience :** développement Back-end, API REST, React et Apache Airflow.
+- ⚙️ **Centres d’intérêt :** architecture logicielle, conception d’API et intégration de systèmes.
 - 🤝 **Collaboration :** ouvert aux collaborations et aux projets de développement logiciel.
 
 ---
 
 ### 🛠️ Stack technique
 
-**Développement Back-end**
+#### Back-end
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -39,7 +39,7 @@ J'ai également une expérience en développement Full Stack avec React et dans 
   <img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge" alt="API REST" />
 </div>
 
-**Développement Front-end**
+#### Front-end
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -49,7 +49,7 @@ J'ai également une expérience en développement Full Stack avec React et dans 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-**Bases de données**
+#### Bases de données
 
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -58,13 +58,13 @@ J'ai également une expérience en développement Full Stack avec React et dans 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </div>
 
-**Données et orchestration des flux**
+#### Données & orchestration
 
 <div>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 </div>
 
-**Outils & technologies**
+#### Outils & technologies
 
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -86,7 +86,7 @@ J'ai également une expérience en développement Full Stack avec React et dans 
 
 ---
 
-### 🤝 Retrouvez-moi sur
+### 🤝 Retrouvez-moi
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kimou-n-cho-guy-eric-b5758621a/">
