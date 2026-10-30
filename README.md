@@ -4,12 +4,12 @@
   <img src="profile.png" width="180" height="180" alt="Photo de profil d'Eric Kimou" />
 </div>
 
-```
 <div align="center">
+
   <h3>Développeur Back-end Java & Spring Boot</h3>
   <p>Full Stack • React • Spring Boot • Microservices • API REST</p>
 </div>
-```
+
 ---
 
 
